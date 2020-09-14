@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    height: 100%;
+
+}
+#account{
+    width: 100%;
+}
+#acc_1{
+    font-family: sans-serif;
+    text-align: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    vertical-align: 100%;
+
+}
+
+#acc_s{
+    text-align: right;
+    position: relative;
+    height: 80px;
+    vertical-align: 100%;
+}
+#logozone{
+    margin-top: 90px;
+    width: 100%;
+    position: relative;
+
+}
+#hplogo{
+    padding-top: 100px;
+}
+
+#fl{
+    font-family: sans-serif;
+    height: 50px;
+    width: 100%;
+    background: #f2f2f2;
+    vertical-align: 10px;
+}
+
+#f{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
+#f2{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
